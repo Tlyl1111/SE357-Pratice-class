@@ -44,4 +44,6 @@
       </tr>
 </table>
 
+- **Đề tài:** Phát triển hệ thống hỗ trợ quản trị doanh nghiệp dựa trên Odoo: Áp dụng cho phân hệ quản lý phương tiện, logistics và kho hàng
+
 
