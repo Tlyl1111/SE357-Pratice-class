@@ -19,7 +19,7 @@
       <tr>
        <td>2</td>
        <td></td> 
-       <td>Receive goods from suppliers; Dispatch goods as per order; Inventory check & adjustment; Reports on inventory and warehouse utilization.</td>
+       <td>Purchase - Sales Module: Create transport order, Invoice</td>
        <td></td>
        <td></td> 
        <td></td>
@@ -27,7 +27,7 @@
       <tr>
        <td>3</td>
        <td></td> 
-       <td>Purchase - Sales Module: Create transport order, Invoice</td>
+       <td>Delivery Module: Track and supervise goods transportation</td>
        <td></td>
        <td></td> 
        <td></td>
@@ -35,8 +35,8 @@
       <tr>
        <td>4</td>
        <td></td> 
-       <td>Delivery Module: Track and supervise goods transportation</td>
        <td></td>
+       <td>Fleet Module: Track basic info, Manage vehicle status, Manage documents, Manage drivers, Track expenses</td>
        <td></td> 
        <td></td>
       </tr>
@@ -44,20 +44,12 @@
        <td>5</td>
        <td></td> 
        <td></td>
-       <td>Fleet Module: Track basic info, Manage vehicle status, Manage documents, Manage drivers, Track expenses</td>
-       <td></td> 
-       <td></td>
-      </tr>
-      <tr>
-       <td>6</td>
-       <td></td> 
-       <td></td>
        <td></td>
        <td>Custom reports; Performance analysis</td> 
        <td></td>
       </tr>
       <tr>
-       <td>7</td>
+       <td>6</td>
        <td></td> 
        <td></td>
        <td></td>
