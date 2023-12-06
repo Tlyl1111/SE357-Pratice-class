@@ -9,7 +9,6 @@
 
 **Supervisors**:
 
-- [Name - link to profile (github / email / website))
 - Nguyen Trinh Dong - ([Email](dongnt@uit.edu.vn))
 - Vu Tuan Hai - ([Github](https://github.com/vutuanhai237)/[Email](smtp2@uit.edu.vn))
   
