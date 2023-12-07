@@ -46,14 +46,6 @@
        <td></td>
        <td></td>
        <td>Custom reports; Performance analysis</td> 
-       <td></td>
-      </tr>
-      <tr>
-       <td>6</td>
-       <td></td> 
-       <td></td>
-       <td></td>
-       <td></td> 
        <td>Access rights assignment; Account creation</td>
       </tr>
 </table>
